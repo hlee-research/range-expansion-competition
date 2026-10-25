@@ -1,0 +1,14 @@
+# simulation output (curated summaries live in data/)
+simulations/results/
+simulations/logs/
+results/
+logs/
+*.f32
+*_shape.txt
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+# Julia
+Manifest.toml
+# OS
+.DS_Store

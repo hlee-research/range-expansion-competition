@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Velocity differences have distinct effects on exclusion, coexistence, and bistability during range expansions"
+authors:
+  - family-names: Lee
+    given-names: Hyunseok
+    affiliation: Massachusetts Institute of Technology
+  - family-names: Swartz
+    given-names: Daniel W.
+    affiliation: Massachusetts Institute of Technology
+  - family-names: Korolev
+    given-names: Kirill S.
+    affiliation: Boston University
+license: MIT
+# doi: 10.5281/zenodo.XXXXXXX   # add after the first Zenodo release
