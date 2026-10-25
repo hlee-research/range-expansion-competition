@@ -29,12 +29,12 @@ figures/                                   output directory for the plotting scr
 
 | Figure | Data | Code |
 |---|---|---|
-| Fig 1 | phase boundaries are analytical (Eq 8); insets from earlier simulations with D = 0.1 (S1 Text, Section S4.1) | <!-- TODO --> |
-| Fig 2A, 2B, 2C | `data/fig2a`, `data/fig2b`, `data/fig2c` | `analysis/theory.py` <!-- TODO: plotting script --> |
-| Fig 3B | earlier simulations with D = 0.1 | <!-- TODO --> |
-| Fig 3C | `data/fig3` (labels `traj1`, `traj2`, `traj3`) | `analysis/theory.py` <!-- TODO: plotting script --> |
-| Fig 4 | sampled from the trade-off, no simulation data | <!-- TODO: Fig 4 script --> |
-| Fig 5 | computed in the notebook | `analysis/fig5_community.ipynb` |
+| Fig 1 | phase boundaries are analytical (Eq 8); insets from earlier simulations with D = 0.1 (S1 Text, Section S4.1) | `analysis/F1.ipynb` |
+| Fig 2A, 2B, 2C | `data/fig2a`, `data/fig2b`, `data/fig2c` | `analysis/theory.py`, `analysis/F2.ipynb` |
+| Fig 3B | earlier simulations with D = 0.1 | `data/fig3b` |
+| Fig 3C | `data/fig3` (labels `traj1`, `traj2`, `traj3`) | `analysis/theory.py`,`analysis/F3.ipynb` |
+| Fig 4 | sampled from the trade-off, no simulation data | `analysis/F4.ipynb` |
+| Fig 5 | computed in the notebook | `analysis/F5.ipynb` |
 | S1 Fig | `data/conv` | `analysis/plot_S1.py` |
 | S1 Text, Section S4.5 | `data/ic`, `data/strip` | — |
 
